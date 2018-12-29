@@ -1,0 +1,32 @@
+item {
+  id: 1
+  name: 'power_on'
+}
+item {
+  id: 2
+  name: '2hz_on'
+}
+item {
+  id: 3
+  name: '5hz_on'
+}
+item {
+  id: 4
+  name: 'internet_on'
+}
+item {
+  id: 5
+  name: '1_on'
+}
+item {
+  id: 6
+  name: '2_on'
+}
+item {
+  id: 7
+  name: '3_on'
+}
+item {
+  id: 8
+  name: '4_on'
+}
